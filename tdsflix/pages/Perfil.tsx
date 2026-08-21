@@ -33,6 +33,7 @@ const styles = StyleSheet.create({
     padding: 20,
     justifyContent: 'center',
     alignItems: 'center',
+     backgroundColor: '#490b0bff'
       
   },
 
@@ -53,13 +54,14 @@ const styles = StyleSheet.create({
 
   texto: {
  fontSize: 20,
-    color: '#000',
+    color: '#ffffffff',
     marginTop: 8,
     fontWeight: 'bold',
   },
 
   descricao: {
     fontSize: 16,
+     color: '#ffffffff',
     marginTop: 10,
     textAlign: 'center',
   },

@@ -59,6 +59,7 @@ const styles = StyleSheet.create({
   container: {
     flex: 1,
     padding: 20,
+     backgroundColor: '#490b0bff'
   },
 
   
@@ -73,12 +74,14 @@ const styles = StyleSheet.create({
     fontSize: 28,
     fontWeight: 'bold',
     marginVertical: 10,
+    color: 'white'
   },
 
   
   texto: {
     fontSize: 16,
     marginBottom: 8,
+    color: 'white'
   },
 
   
@@ -86,6 +89,7 @@ const styles = StyleSheet.create({
     fontSize: 16,
     marginTop: 15,
     lineHeight: 23,
+    color: 'white'
   },
 
 })
